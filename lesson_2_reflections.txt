@@ -3,3 +3,9 @@ A .git file is created.  To keep try of commit history.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 You cannot change files in staging area?
+
+How can you use the staging area to make sure you have one commit per logical change?
+Only add files to the staging area that belongs to one logical change.
+
+How do the diagrams help you visualize the branch structure?
+It helps see the parent easier.
