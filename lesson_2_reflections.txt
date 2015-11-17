@@ -9,3 +9,6 @@ Only add files to the staging area that belongs to one logical change.
 
 How do the diagrams help you visualize the branch structure?
 It helps see the parent easier.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes from both branches are merge together.
